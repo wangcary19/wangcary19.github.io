@@ -1,33 +1,12 @@
 ---
-layout: about
+layout: page
 title: About Me
 permalink: /about/
-tags: about
-flicker: true
-headshot: /images/headshot.jpg
 ---
 
-I am a Software Engineering student at [RMIT University](https://www.rmit.edu.au/) in Melbourne. Starting November 2016 I will be interning with [Zendesk](https://www.zendesk.com/) in a Data Engineering role.
+# ✌️ Hi · 你好 · Salut · 今日は
+I'm Cary "Cart" Wang, a developer from New York City with a love for languages both computer and human.  When not tinkering with code, I can be found in the great outdoors, hiking and climbing:
 
-I'm currently doing a lot of work building developer communities around my University. I'll chase any opportunity to improve collaboration and outreach in the tech. industry.
+![Sky Pond in RMNP, Oct 2024](/assets/Rocky Mountains Profile Pic.jpg)
 
-My main areas of interest are in NLP, Agent-Oriented Programming, and Computational Dialectics.
-
-{% if site.show_talks_section %}
-## Talks
-
-- Put something here!
-{% endif %}
-
-{% if site.show_workshops_section %}
-## Workshops
-
-- Put something here!
-{% endif %}
-
-
-<style>
-.post-header, #talks, #workshops {
-  text-align: center; /* Want the About Page header to be in the middle */
-}
-</style>
+I firmly believe that secure, stable, and sustainable practices are applicable both out in the wild and within the digital domain.
