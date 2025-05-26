@@ -1,9 +1,9 @@
 ######################################
 ## Site settings                    ##
 ######################################
-title:       Junior Theme
-email:       jonathon.bel.melbourne@gmail.com
-author:      Jonathon Belotti
+title:       Cary Wang
+email:       wangcary19@gmail.com
+author:      Cary Wang, with major support of Jonathan Bellotti
 description: "A striking black-white Jekyll theme."
 baseurl:     ""
 url:         "https://juniortheme.live/"
@@ -21,7 +21,7 @@ bing_verification:
 ######################################
 ## Optional features                ##
 ######################################
-animated:             false
+animated:             True
 show_related_posts:   false
 show_post_footers:    True
 show_social_icons:    True
@@ -53,17 +53,17 @@ facebook_comments_number: 10
 ###################################
 ## Social icons                  ##
 ###################################
-github_username: thundergolfer
+github_username: wangcary19
 bitbucket_username:
 stackoverflow_id:
-twitter_username: jonobelotti_io
+twitter_username: 
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username: jonathonbelotti
+linkedin_username: carywang
 angellist_username:
-medium_id: thundergolfer
-youtube_channel_id: UCSP7fMKwmaXaZhViAV2Vgvg
+medium_id: 
+youtube_channel_id: 
 bitcoin_url:
 paypal_url:
 flattr_button:
@@ -73,15 +73,15 @@ flattr_button:
 ###################################
 show_sharing_icons: True
 # Change to 'true' to enable individual icons
-share_facebook: True
-share_twitter: True
-share_googleplus: True
-share_linkedin: false
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: True
 share_digg: false
 share_tumblr: false
 share_reddit: True
 share_stumbleupon: false
-share_hackernews: True
+share_hackernews: false
 
 text:
   pagination:
