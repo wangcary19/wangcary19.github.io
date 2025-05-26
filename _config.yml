@@ -3,10 +3,10 @@
 ######################################
 title:       Cary Wang
 email:       wangcary19@gmail.com
-author:      Cary Wang, with major support of Jonathan Bellotti
-description: "A striking black-white Jekyll theme."
+author:      Cary Wang, with help from Jonathan Bellotti
+description: 
 baseurl:     ""
-url:         "https://juniortheme.live/"
+url:         
 date_format: "%b %-d, %Y"
 
 # Google services
